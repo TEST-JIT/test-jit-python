@@ -33,3 +33,6 @@ elasticsearch==7.13.2
 kafka-python==2.0.2
 psycopg2-binary==2.9.6
 
+
+
+
